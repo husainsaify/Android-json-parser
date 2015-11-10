@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Restapi</string>
+    <string name="action_dotask">Do TASK</string>
+    <string name="title_activity_detail">detail</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+</resources>
